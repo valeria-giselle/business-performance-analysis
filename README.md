@@ -19,7 +19,6 @@ cohortes.
 ## 📂 Estructura del proyecto
 - `datasets/` → Datasets usados en el proyecto
 - `notebooks/` → Análisis de negocio y cohortes
-- `images/` → Visualizaciones clave
 - `README.md` → Descripción del proyecto en español
 - `README_EN.md` → Descripción del proyecto en inglés
 - `requirements.txt` → Dependencias del proyecto
